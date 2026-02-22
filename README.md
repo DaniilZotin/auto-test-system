@@ -21,7 +21,7 @@
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
 
-### А також $\color{#55AE5B}{{PlayWrite}}$ - це ліба яка дозволяє емулювати дію браузеру в різних режимах. За допмогою неї ми і робимо тестування 
+### А також $\color{#55AE5B}{{PlayWrite}}$ - це ліба яка дозволяє емулювати дію браузеру в різних режимах. За допомогою неї ми і робимо тестування 
 
 ## Встановлення
 1. git clone https://github.com/DaniilZotin/auto-test-system.git
@@ -33,6 +33,10 @@
 ## Запуск
 - npx playwright test --ui за допмогою цієї команди ми запускає тести в дуже зручному UI режимі, в якому можемо дивитись в real time куди клікає програма під час тестування сайту
 <img width="1581" height="872" alt="image" src="https://github.com/user-attachments/assets/a96da09f-eb0c-49a0-a7c0-1d13a3038ad6" />
+
+- також можна запустити в режимі codegen де код буде для тесту писатись автоматично коли ми клацаємо по сайту
+<img width="1892" height="999" alt="image" src="https://github.com/user-attachments/assets/f5abea9f-444f-4d72-b654-0cd100330e1c" />
+
 
 
 
