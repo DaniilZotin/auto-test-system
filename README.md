@@ -27,7 +27,8 @@
 1. git clone https://github.com/DaniilZotin/auto-test-system.git
 2. npx playwright install
 3. npm install
-4. створити папку 
+4. створити папку tests/fixtures
+5. додати в папку fixtures два ключі з назвами Key-6dubravacitizen.dat та Key-6sidorenkoofficer 6 РА.dat
 
 ## Запуск
 - npx playwright test --ui за допмогою цієї команди ми запускає тести в дуже зручному UI режимі, в якому можемо дивитись в real time куди клікає програма під час тестування сайту
