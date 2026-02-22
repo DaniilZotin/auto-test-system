@@ -12,3 +12,44 @@
 
 ## Коротко стосовно проекту
 Це тільки шаблон застосунку для того щоб було розуміння підходить це під наші цілі чи ні. Тобто цей код націлений продемонструвати можливості створення автоматизованих тестів, і якщо ми зрозуміємо що це нам підходить, до можна створювати набагато складніші тести.
+
+
+## Технології які використано:
+
+### Front-end:
+* [![TS][TS]][TS-url]
+* [![HTML][HTML]][HTML-url]
+* [![CSS][CSS]][CSS-url]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TS]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[TS-url]: https://www.typescriptlang.org/
+
+[HTML]: https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+[CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white
+[CSS-url]: https://devdocs.io/css/
